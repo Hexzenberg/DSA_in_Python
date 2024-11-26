@@ -5,3 +5,5 @@
 ##### I will also be refreshing my Object Oriented Programming(OOPs) practice in this project.
 ##### This repository has all the topics that are a part of the Data Structures curriculum be it graphs or dynamic programming.
 ##### Each of the topics will be implemented in a Jupyter Notebook along with their most premier and known algorithms present in it.
+##### I will also add a final notebook for you C++ folks to help map every useful function from C++ to Python.
+##### This could be a great interview prep start tool along with practicing questions on your own after reading a topic.
